@@ -1,0 +1,14 @@
+{
+    "object_list": [
+        
+        { "left-top": {"x": 68, "y": 235}, "right-bottom": {"x": 316, "y": 383}},
+        { "left-top": {"x": 312, "y": 225}, "right-bottom": {"x": 533, "y": 379}},
+        { "left-top": {"x": 542, "y": 195}, "right-bottom": {"x": 747, "y": 369}},
+        { "left-top": {"x": 751, "y": 187}, "right-bottom": {"x": 943, "y": 373}},
+        { "left-top": {"x": 947, "y": 188}, "right-bottom": {"x": 1144, "y": 360}},
+        { "left-top": {"x": 1151, "y": 172}, "right-bottom": {"x": 1329, "y": 350}},
+        { "left-top": {"x": 1309, "y": 182}, "right-bottom": {"x": 1493, "y": 333}},
+        { "left-top": {"x": 1519, "y": 188}, "right-bottom": {"x": 1688, "y": 326}}
+
+    ]
+}

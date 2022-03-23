@@ -1,0 +1,7 @@
+id_rsa
+.git
+trainImg/categorized
+python/__pycache__
+python/log
+result/model_architecture.json
+result/weights.hdf5

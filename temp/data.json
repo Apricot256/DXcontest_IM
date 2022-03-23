@@ -1,0 +1,41 @@
+{
+    "data": [
+      [
+        "Camera 1",
+        [
+          {
+            "name": "Camera 1 - No.1",
+            "status": "many"
+          },
+          {
+            "name": "Camera 1 - No.2",
+            "status": "few"
+          },
+          {
+            "name": "Camera 1 - No.3",
+            "status": "cover"
+          },
+          {
+            "name": "Camera 1 - No.4",
+            "status": "cover"
+          },
+          {
+            "name": "Camera 1 - No.5",
+            "status": "cover"
+          },
+          {
+            "name": "Camera 1 - No.6",
+            "status": "cover"
+          },
+          {
+            "name": "Camera 1 - No.7",
+            "status": "cover"
+          },
+          {
+            "name": "Camera 1 - No.8",
+            "status": "cover"
+          }
+        ]
+      ]
+    ]
+}
