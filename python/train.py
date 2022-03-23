@@ -20,7 +20,7 @@ import numpy as np
 def network(input_shape, num_classes):
 
     '''
-     model = Sequential()
+    model = Sequential()
     
     model.add(Conv2D(8, (3, 3), padding='same',input_shape=input_shape))
     model.add(Activation('tanh'))#
