@@ -1,0 +1,6 @@
+version: '2'
+services:
+  predict:
+    image: nvcr.io/nvidia/l4t-tensorflow:r34.1.0-tf1.15-py3
+    volumes:
+      - /home/nvidia/work/DXcontest_IM/mnt:/root
