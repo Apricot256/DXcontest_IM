@@ -1,7 +1,7 @@
-id_rsa
+mnt/id_rsa
 .git
-trainImg/categorized
-python/__pycache__
-python/log
-result/model_architecture.json
-result/weights.hdf5
+mnt/trainImg/categorized
+mnt/python/__pycache__
+mnt/python/log
+mnt/result/model_architecture.json
+mnt/result/weights.hdf5
