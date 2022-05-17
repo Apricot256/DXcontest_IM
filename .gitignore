@@ -5,6 +5,7 @@ mnt/python/__pycache__
 mnt/python/log
 mnt/result/model_architecture.json
 mnt/result/weights.hdf5
+mnt/temp/2022*.json
 .keras
 .nv
 .ssh
